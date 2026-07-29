@@ -10,15 +10,15 @@
     align-items: center;
 }
 
-.cartao {
+.cartao{
 width: 260px;
 height: 200px;
 }
 
-.cartao-imagem {
+.cartao-imagem{
     width: 100%;
 }
 
-body {
+body{
     display: flex;
 }
