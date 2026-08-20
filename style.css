@@ -32,15 +32,16 @@ main {
 }
 
 .cabecalho-link{
-    color: #ffff;
+    color: #fff;
     text-decoration: none;
 }
 
 h1{
-  color: #ffff
+  color: #fff
 }
 
 footer{
     background-color: #7e3e1c;
      padding: 15px 25px;
+     color:#fff
 }
