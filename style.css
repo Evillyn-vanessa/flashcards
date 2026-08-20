@@ -53,4 +53,5 @@ footer{
 
 .catao-frente, .cartao-verso {
 position-absolute;
+border-radius:12px;
 }
